@@ -88,6 +88,3 @@ Input: sin(30) + sqrt(16)
 Output: 0.49999999999999994 + 4 = 4.5
 Contribution
 Feel free to fork this repository and contribute by submitting issues or pull requests for any improvements or bug fixes.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
